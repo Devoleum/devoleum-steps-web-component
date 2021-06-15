@@ -25,8 +25,6 @@ template.innerHTML = `
       margin: auto;
     }
   }
-  
-  
 
   .user-card:hover {
     box-shadow: rgba(45, 45, 45, 0.05) 0px 2px 2px,
@@ -50,7 +48,6 @@ template.innerHTML = `
     padding-top: 15px;
     display: block;
   }
-
 
   </style>
   <div>
